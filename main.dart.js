@@ -64627,8 +64627,10 @@ return A.kp(B.fk,A.f4(A.a([A.cl(a,B.PB,B.bt,s)],t.p),B.aF,B.V),s,s,s,s,s,B.e3,s,
 $S:408}
 A.Hv.prototype={
 R(a){var s,r,q,p,o,n=null,m={},l=A.ai(a).ax,k=t.w,j=A.bJ(a,n,k).w.a.a/400,i=B.c.V(j)
+if(i<1)i=1
 m.a=2
 if(j<2)m.a=1.2
+if(j<1.6)m.a=3
 s=t.JU
 r=A.W(new A.a4(A.a([new A.cQ("Programmation d\xe9butant",88,69,79,"Python, Analyse textuelle, Gestion de donn\xe9es"),new A.cQ("Logique math\xe9matique",87,66,77,"Logique bool\xe9enne, Calculs binaires, Th\xe9orie des ensembles, Transformations matricielles"),new A.cQ("Syst\xe8mes d'exploitation",98,77,93,"Structure des syst\xe8mes d'exploitation, Console de commandes, Windows"),new A.cQ("Programmation interm\xe9diaire",90,69,73,"Java, Swing, D\xe9veloppement d'applications native"),new A.cQ("Bases de donn\xe9es",95,74,90,"MySQL, MongoDB, Cr\xe9ation et gestion de bases de donn\xe9es"),new A.cQ("D\xe9veloppement web",96,76,91,"Javascript, Bootstrap, Node, Express, HTML, CSS"),new A.cQ("Applications de bureau",88,69,81,"Java, JavaFX, Postgres, Gestion de serveurs locaux"),new A.cQ("Services web",81,79,86,"Typescript, React, Curl, Gestion de serveurs en ligne"),new A.cQ("Algorithmes et mod\xe9lisation",90,68,80,"Java, Structures de donn\xe9es, Arbres de recherche, Syst\xe8mes de notation"),new A.cQ("Syst\xe8mes de d\xe9veloppement",95,75,88,"Principes SOLID, D\xe9veloppement Agile, Scrum, Cycles de d\xe9veloppement"),new A.cQ("Applications mobiles",0,0,0,"Java, Kotlin, Android, Android Studio"),new A.cQ("Applications transactionnelles",0,0,0,"PHP, Transactions web, H\xe9bergement"),new A.cQ("Cybers\xe9curit\xe9",0,0,0,"ISO, Applications s\xe9cures, Protocoles de s\xe9curit\xe9, Conscientisation"),new A.cQ("Milieu du travail",0,0,0,"\xc0 d\xe9terminer"),new A.cQ("Stage en entreprise",0,0,0,"D\xe9bute le 12 mai")],t.WF),new A.a2S(m,this,a,l),s),!0,s.h("ak.E"))
 k=A.bJ(a,n,k).w
