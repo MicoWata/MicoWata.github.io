@@ -1,4 +1,11 @@
 {
-  "name": "MicoWata.github.io",
-  "packageManager": "yarn@4.6.0"
+  "name": "micowata.github.io",
+  "version": "1.0.0",
+  "main": "flutter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
