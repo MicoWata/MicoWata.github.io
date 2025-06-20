@@ -1,0 +1,265 @@
+{
+    "welcome": "Just another passionate developer",
+    "introduction": [
+        "Hello,",
+        "This is my application for the developer position within your company.",
+        "Passionate about application development and programming for nearly 10 years, I recently decided to dedicate myself to this career.",
+        "I bring almost ten years of amateur video game development and creative tool development, in addition to my college training in application development.",
+        "On this site, you will find links to my completed projects, as well as more information about my background, my completed projects, and my training.",
+        "If you received a link to this site, it is because I am motivated to contribute to ambitious projects like yours, and to grow within your team.",
+        "Perhaps you will also find useful my years of experience teaching French as a second language, from which I draw a mastery of developing structured lessons and fruitful leadership.",
+        "Thanking you for your consideration and wishing you a wonderful day,",
+        "Happy reading"
+    ],
+    "stories": [
+        {
+            "time": "2024 ...",
+            "title": "Academic Training",
+            "languages": [
+                "Java",
+                "Dart",
+                "Lua",
+                "Typescript",
+                "SQL",
+                "Bash"
+            ],
+            "tools": [
+                "Java Swing, JavaFX, Android Studio",
+                "Flutter, Material 3",
+                "Neovim, Treesitter",
+                "Node, Express, React, Bootstrap, Vite",
+                "MySQL, MongoDB, Postgres",
+                "Linux, ZSH"
+            ],
+            "skills": [
+                "OOP, CRUD, SOLID, Native Applications",
+                "Universal Interface Development",
+                "Plugin Development, Language Servers",
+                "Web Applications, Servers and Web Services",
+                "Command Line, Development Tools",
+                "Database Management"
+            ]
+        },
+        {
+            "time": "2021 à 2024",
+            "title": "Towards the Metal",
+            "languages": [
+                "Rust",
+                "C",
+                "GLSL"
+            ],
+            "tools": [
+                "Cargo, Win32",
+                "GCC, Clang, CMD, Powershell",
+                "OpenGL"
+            ],
+            "skills": [
+                "Learning Projects, Type-Oriented Development",
+                "Operating Systems, Manual Memory Management",
+                "GPU Programming, Generative Art"
+            ]
+        },
+        {
+            "time": "2018 à 2021",
+            "title": "Personal Research and Development",
+            "tools": [
+                "Love2D, VS Code",
+                "Hydra, Max/MSP, Reaktor, Unity"
+            ],
+            "languages": [
+                "Lua",
+                "Visuals"
+            ],
+            "skills": [
+                "Desktop Games and Audio Synthesizers",
+                "Live Coding of Audio-Visual Art on Twitch"
+            ]
+        },
+        {
+            "time": "2015 à 2018",
+            "title": "First Steps",
+            "tools": [
+                "Brackets, Audio API",
+                "P5.js, Chrome dev tools"
+            ],
+            "languages": [
+                "Coffeescript",
+                "Javascript"
+            ],
+            "skills": [
+                "Video Games for the Web",
+                "Canvas Drawing, Software Architecture"
+            ]
+        }
+    ],
+    "achievements": [
+        {
+            "time": "2025",
+            "title": "Internship",
+            "feats": [
+                "Rapid assimilation of server and client code",
+                "Task structuring, deadline assessment",
+                "Deployment of a transactional website to production"
+            ],
+            "description": "For my end-of-study internship (culminating in 2025), the community organization Le Filon recruited me to complete Banque-à-pitons, a transactional website that had been in development for 7 years. I thus finalized their website and successfully ensured its deployment to production.",
+            "images": [
+                "bap2.png",
+                "bap1.png"
+            ],
+            "link": "v2.banqueapitons.org"
+        },
+        {
+            "time": "2023 à 2025",
+            "title": "Studies",
+            "feats": [
+                "Ease in each discipline",
+                "Tutoring offered to peers",
+                "Led some classes"
+            ],
+            "description": "This training allowed me to discover certain aspects of application development that I was unaware of, such as databases and version control systems. Beyond the coursework, I also led some classes for the introductory programming course and acted as a tutor for peers facing difficulties.",
+            "images": [
+                "course3.png",
+                "course1.png",
+                "course2.png"
+            ],
+            "link": ""
+        },
+        {
+            "time": "2021 à 2023",
+            "title": "Mico Wata",
+            "feats": [
+                "Live coding on Twitch and Youtube",
+                "Live programming of interactive music and textures"
+            ],
+            "description": "This creator name marks a period of public creation, initially musical, on a modular synthesizer, then audio-visual with the help of the web application Hydra, a fragment shader editor, and various methods of communication between audio and video. The goal was to produce abstract works where sound and image are inseparable.",
+            "images": [
+                "micowata1.png",
+                "micowata2.png",
+                "micowata3.png"
+            ],
+            "link": "youtube.com/@micowata"
+        },
+        {
+            "time": "2016",
+            "title": "Zoo's Mad",
+            "feats": [
+                "Generative graphics",
+                "Complete bug-free game"
+            ],
+            "description": "My first programming project. A roguelike deckbuilding collectible card game. The card collection is entirely generated by a minimal algorithm. The game contains no images. The graphics are entirely drawn on canvas.",
+            "images": [
+                "zoosmad1.png",
+                "zoosmad2.png",
+                "zoosmad3.png"
+            ],
+            "link": "micowata.itch.io"
+        }
+    ],
+    "courses": [
+        {
+            "name": "Internship",
+            "score": 0,
+            "average": 0,
+            "median": 0,
+            "content": "Ends July 4th"
+        },
+        {
+            "name": "Mobile Applications",
+            "score": 86,
+            "average": 74,
+            "median": 90,
+            "content": "Java, Kotlin, Android, Android Studio"
+        },
+        {
+            "name": "Transactional Applications",
+            "score": 91,
+            "average": 84,
+            "median": 86,
+            "content": "PHP, Transactional Sites, Hosting"
+        },
+        {
+            "name": "Cybersecurity",
+            "score": 95,
+            "average": 83,
+            "median": 86,
+            "content": "ISO, Secure Applications, Security Protocols, Awareness"
+        },
+        {
+            "name": "Work Environment",
+            "score": 92,
+            "average": 82,
+            "median": 90,
+            "content": "SOLID Principles, Scrum, Professional Development"
+        },
+        {
+            "name": "Desktop Applications",
+            "score": 88,
+            "average": 69,
+            "median": 81,
+            "content": "Java, JavaFX, Postgres, Local Server Management"
+        },
+        {
+            "name": "Web Services",
+            "score": 81,
+            "average": 79,
+            "median": 86,
+            "content": "Typescript, React, Curl, Online Server Management"
+        },
+        {
+            "name": "Algorithms and Modeling",
+            "score": 89,
+            "average": 64,
+            "median": 67,
+            "content": "Java, Data Structures, Search Trees, Notation Systems"
+        },
+        {
+            "name": "Development Systems",
+            "score": 95,
+            "average": 75,
+            "median": 88,
+            "content": "SOLID Principles, Agile Development, Scrum, Development Cycles"
+        },
+        {
+            "name": "Intermediate Programming",
+            "score": 90,
+            "average": 69,
+            "median": 73,
+            "content": "Java, Swing, Native Application Development, Database Interactions"
+        },
+        {
+            "name": "Web Development",
+            "score": 96,
+            "average": 76,
+            "median": 91,
+            "content": "Javascript, Bootstrap, Node, Express, HTML, CSS, Vite"
+        },
+        {
+            "name": "Databases",
+            "score": 95,
+            "average": 74,
+            "median": 90,
+            "content": "MySQL, MongoDB, Database Creation and Management"
+        },
+        {
+            "name": "Beginner Programming",
+            "score": 88,
+            "average": 69,
+            "median": 79,
+            "content": "Python, Text Analysis, Data Management"
+        },
+        {
+            "name": "Operating Systems",
+            "score": 98,
+            "average": 77,
+            "median": 93,
+            "content": "Operating System Structure, Command Line, Powershell"
+        },
+        {
+            "name": "Mathematical Logic",
+            "score": 87,
+            "average": 66,
+            "median": 77,
+            "content": "Boolean Logic, Binary Calculations, Set Theory, Matrix Transformations"
+        }
+    ]
+}
