@@ -107,7 +107,7 @@
             "link": "v2.banqueapitons.org"
         },
         {
-            "time": "2023 à 2025",
+            "time": "2024 à 2025",
             "title": "Études",
             "feats": [
                 "Aisance dans chaque discipline",
@@ -120,6 +120,16 @@
                 "course1.png",
                 "course2.png"
             ],
+            "link": ""
+        },
+        {
+            "time": "2024",
+            "title": "Abaccus",
+            "feats": [
+                ""
+            ],
+            "description": "Écrit en C et GLSL, Abaccus sera un environnement de développement graphique pour mobile permettant de développer des applications sur tablette ou téléphone aussi efficacement qu'avec un ordinateur portable. Abaccus présente des alternatives efficaces au clavier et à la souris. Son langage n'est jamais interpreté textuellement et permet de développer un application pendant qu'elle tourne.",
+            "images": [],
             "link": ""
         },
         {
@@ -138,13 +148,28 @@
             "link": "youtube.com/@micowata"
         },
         {
+            "time": "2018 à 2020",
+            "title": "New Days",
+            "feats": [
+                "",
+                "Programmation de musique et de textures intéractives en direct"
+            ],
+            "description": "En développement, ce roguelike de stratégie tour-par-tour a d'abord été écrit en Javascript, puis réécrit en Rust, avec seulement Winapi et OpenGL comme librairies externes. Des outils créatifs ont été écrits pour générer les images, les sons et les musiques du jeu. Ces outils font partie intégrale du programme.",
+            "images": [
+                "newdays2.png",
+                "newdays3.png",
+                "newdays1.png"
+            ],
+            "link": ""
+        },
+        {
             "time": "2016",
             "title": "Zoo's Mad",
             "feats": [
                 "Graphiques génératifs",
                 "Jeu complet sans bogue"
             ],
-            "description": "Mon premier projet de programmation. Un jeu de cartes à collectionner de type roguelike deckbuilding. La collection de carte est entièrement générée par un algorithme minimal. Le jeu ne comporte aucune image. Les graphiques sont entièrements déssinés sur canvas.",
+            "description": "Mon premier projet de programmation. Un jeu de cartes à collectionner de type roguelike. La collection de carte est entièrement générée par un algorithme minimal. Le jeu ne comporte aucune image. Les graphiques sont entièrements générés sur un canvas.",
             "images": [
                 "zoosmad1.png",
                 "zoosmad2.png",
